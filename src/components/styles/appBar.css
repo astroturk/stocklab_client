@@ -1,0 +1,12 @@
+.appBarTitle {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.appBarButton {
+    min-width: 150px;
+}
+
+.appBarDivider {
+    background: linear-gradient(90deg, rgba(0,254,247,1) 0%, rgba(158,189,243,1) 35%, rgba(234,151,241,1) 100%);
+}

@@ -1,0 +1,22 @@
+.registerContainer {
+    padding: 0px 0px 0px 0px;
+    min-height: 100vh;
+    background-color: #282828;
+}
+
+.registerSubContainer {
+    min-height: 700px;
+    height: 75vh;
+}
+
+.registerFormContainer {
+    width: 450px;
+}
+
+.formHeading {
+    font-size: 110px;
+    font-weight: 500;
+    background: linear-gradient(90deg, rgba(0,254,247,1) 0%, rgba(158,189,243,1) 35%, rgba(234,151,241,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,10 @@
+.dashboardContainer {
+    padding: 0px 0px 0px 0px;
+    min-height: 100vh;
+    background-color: #282828;
+}
+
+.dashboardSubContainer {
+    min-height: 700px;
+    height: 75vh;
+}
